@@ -86,4 +86,7 @@ blockquote, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, li, ol, p, pre, td, t
 .lightInstructions {
     color: #5f9042;
 }
+.author {
+    color: #5f9042; 
+}
 
